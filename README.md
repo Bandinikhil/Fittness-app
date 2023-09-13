@@ -1,7 +1,8 @@
 # FitnessApp   **Deployed Link** 
 
- fitnessnapp.netlify.app
+ 
 https://fitnessnapp.netlify.app
+
 **Description**
 FitnessApp is a web application that helps users find fitness-related videos quickly and efficiently. It features a powerful search bar with suggestions and uses API calls to fetch relevant data with every keystroke, while also utilizing debouncing to optimize performance. Additionally, the app intelligently stores suggestions in a cache using Redux, reducing unnecessary API calls and making the search process more efficient.
 
